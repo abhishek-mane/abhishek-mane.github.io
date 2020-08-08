@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhishek Mane <i class='fa fa-check' aria-hidden='true'></i>"
+  name             : "Abhishek Mane"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "<i class='fa fa-laptop' aria-hidden='true'></i> Software Developer"
   location         : "Pune, Maharashtra, India"

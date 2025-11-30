@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /
 toc: true
-date: 2018-06-23T17:10:45.025Z
+date: 2025-11-30T12:00:00.000Z
 ---
 
 <!-- 
@@ -14,8 +14,25 @@ date: 2018-06-23T17:10:45.025Z
 <div class="cv_content">
   <ul>
     <li>
+      <strong>Mavvrik Inc.</strong>
+      <code class="highlighter-rouge ">WFH</code>
+      <code class="highlighter-rouge ">Apr 2025 - Present</code>
+      <br/>
+      <span>
+        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Lead Software Engineer</i>
+      </span>
+    </li>
+    <li>
+      <strong>Self Employed</strong>
+      <code class="highlighter-rouge ">Apr 2021 - Mar 2025</code>
+      <br/>
+      <span>
+        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Independent Consultant</i>
+      </span>
+    </li>
+    <li>
       <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong>
-      <code class="highlighter-rouge ">Aug 2016 - Present</code>
+      <code class="highlighter-rouge ">Aug 2016 - Mar 2021</code>
       <br/>
       <span>
         <i class='fa fa-laptop' aria-hidden='true'></i> <i>Software Developer</i>
@@ -38,9 +55,39 @@ date: 2018-06-23T17:10:45.025Z
 <div class="cv_content">
   <ul>
     <li>
-      <strong>IBM Cost And Asset Management (CAM)</strong>
-      <code class="highlighter-rouge ">Jan 2018 - Present</code>
+      <strong>Mavvrik</strong>
+      <code class="highlighter-rouge ">Apr 2021 - Present</code>
       <code class="highlighter-rouge live-label">LIVE</code>
+      <br/>
+      <span>
+        AI and hybrid cost management platform providing intelligent insights and optimization recommendations for multi-cloud environments.
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>AWS</button>
+        <button class='btn btn--small btn--light-outline tech-label'>GCP</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Azure</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
+        <button class='btn btn--small btn--light-outline tech-label'>TypeScript</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Terraform</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Claude Code</button>
+        <button class='btn btn--small btn--light-outline tech-label'>BigQuery</button>
+      </span>
+    </li>
+    <li>
+      <strong>IBM Enterprise CAM</strong>
+      <code class="highlighter-rouge ">Jan 2020 - Mar 2021</code>
+      <br/>
+      <span>
+        V2 of existing IBM Cost And Asset Management (CAM) project, built from scratch with a new tech stack for better performance and scalability.
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>NodeJS</button>
+        <button class='btn btn--small btn--light-outline tech-label'>MongoDB</button>
+        <button class='btn btn--small btn--light-outline tech-label'>MongoDB Aggregation Pipeline</button>
+        <button class='btn btn--small btn--light-outline tech-label'>RabbitMQ</button>
+      </span>
+    </li>
+    <li>
+      <strong>IBM Cost And Asset Management (CAM)</strong>
+      <code class="highlighter-rouge ">Jan 2018 - Dec 2019</code>
       <br/>
       <span>
         Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
@@ -257,6 +304,42 @@ date: 2018-06-23T17:10:45.025Z
         <td>
           <div>
             <div style="width: 60%;">-</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right;">
+          <strong>Terraform</strong>
+        </td>
+        <td>
+          <div>
+            <div style="width: 70%;">-</div>
+          </div>
+        </td>
+        <td style="text-align: right;">
+          <strong>BigQuery</strong>
+        </td>
+        <td>
+          <div>
+            <div style="width: 75%;">-</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right;">
+          <strong>TypeScript</strong>
+        </td>
+        <td>
+          <div>
+            <div style="width: 70%;">-</div>
+          </div>
+        </td>
+        <td style="text-align: right;">
+          <strong>GCP</strong>
+        </td>
+        <td>
+          <div>
+            <div style="width: 80%;">-</div>
           </div>
         </td>
       </tr>

@@ -14,16 +14,22 @@ date: 2025-11-30T12:00:00.000Z
 <div class="cv_content">
   <ul>
     <li>
-      <strong>Mavvrik Inc.</strong>
-      <code class="highlighter-rouge ">WFH</code>
+      <strong>DigitalEx FinOps (Mavvrik Inc. Subsidiary)</strong>
       <code class="highlighter-rouge ">Apr 2025 - Present</code>
       <br/>
       <span>
         <i class='fa fa-laptop' aria-hidden='true'></i> <i>Lead Software Engineer</i>
+        <ul style="margin-top: 8px;">
+          <li>lead architecture and development of multi-tenant finops platform</li>
+          <li>design and implement cloud-native services using cloud run, bigquery, and pub/sub</li>
+          <li>optimize cost analytics pipelines processing billions of records monthly</li>
+          <li>mentor engineering team on cloud architecture and best practices</li>
+          <li>drive technical decisions for scalability and performance improvements</li>
+        </ul>
       </span>
     </li>
     <li>
-      <strong>Self Employed</strong>
+      <strong>Mavvrik Inc.</strong>
       <code class="highlighter-rouge ">Apr 2021 - Mar 2025</code>
       <br/>
       <span>
